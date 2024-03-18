@@ -1,6 +1,6 @@
 # finalCapstone
 
-A repo highlighting the more impressive Capstone projects completed during my HyperionDev Bootcamp in Data Science Fundamentals.
+A repo highlighting the Capstone projects completed during my HyperionDev Bootcamp in Data Science Fundamentals.
 
 ## financecalculators.py
 
@@ -8,4 +8,4 @@ This project allows a user to calculate more fine-grained payments for mortgages
 
 ## NLP Applications
 
-TBC.
+This project takes textual data of Amazon reviews, analyses it for sentiment and polarity, and allows you to compare two reviews using SpaCy. This project needs some work.
